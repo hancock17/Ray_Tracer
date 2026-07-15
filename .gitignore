@@ -1,0 +1,13 @@
+# Build artifacts
+bin/
+obj/
+*.o
+*.exe
+
+# Code::Blocks user and generated files
+*.depend
+*.layout
+.idea/
+
+# Renderer output images (generated from scene files)
+/*.ppm

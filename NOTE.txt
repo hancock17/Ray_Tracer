@@ -1,0 +1,2 @@
+1) You can change main.cpp line 40 to test other inputs.
+2) There are .cbp files because I use codeBlocks to do this project

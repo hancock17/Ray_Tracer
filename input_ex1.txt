@@ -1,0 +1,33 @@
+#BackgroundColor
+30 30 60
+#MaxRecursionDepth
+2
+#ShadowRayEpsilon
+0.001
+#Camera
+0 0 0
+0 0 -1
+0 1 0
+-1 1 -1 1
+1
+800 600
+#Material
+1
+0.25 0.08 0.08
+0.9 0.2 0.2
+0.9 0.9 0.9
+40
+0 0 0
+#AmbientLight
+40 40 40
+#PointLight
+1
+2 2 0
+4000 4000 4000
+#VertexList
+0 0 -5
+#Sphere
+1
+1
+1
+2
